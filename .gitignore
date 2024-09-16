@@ -1,0 +1,27 @@
+# Ignore environment variable files
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Node.js modules
+node_modules/
+
+# Log files
+*.log
+
+# Compiled JS/CSS
+public/
+*.min.*
